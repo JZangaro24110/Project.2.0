@@ -1,0 +1,36 @@
+* {
+	text-decoration: none;
+}
+.navbar{
+	background: #6FA0D3; font-family: sans-serif; padding-left: 10pt;padding-right: 10pt;
+}
+.navdiv{
+	display: flex; align-items: center; justify-content: space-between;
+}
+.logo a{
+	font-size: 30pt;font-weight: 600;color: #447DCD;
+}
+li {
+    list-style: none; display: inline-block;
+}
+li a{
+	color: #447DCD;font-size: 15pt; font-weight: bold; margin: 20pt;
+}
+.adopt {
+	background: #90CAAA; margin-left: 10pt; border-radius: 10pt; padding: 10pt; width: 90pt;
+}
+.adopt a{
+	color: white;font-weight: bold; font-size: 10pt;
+}
+.donate {
+	background: #DF5A50; margin-left: 10pt; border-radius: 10pt; padding: 10pt; width: 90pt;
+}
+.donate a{
+	color: white;font-weight: bold; font-size: 10pt;
+}
+h1 {
+	font-family: sans-serif; font-weight: bold; color: #9ccd9b; text-align: center;
+}
+body {
+	background: #d6ecd6;
+}
